@@ -1,6 +1,9 @@
 #app {
     background-image: url("bg.png");
     max-width: 375px;
+    width: 100%;
+    align-content: center;
+    padding: 20px;
 }
 
 #Top {
